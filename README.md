@@ -6,6 +6,13 @@ An end-to-end recruitment analytics project analyzing **3,000 candidate applicat
 
 **[View Recruitment Analytics Dashboard](https://datastudio.google.com/reporting/18751410-e4ae-42d0-91a8-c25c84e32f2d/page/56NAG)**
 
+### Dashboard Preview
+
+<img src="dashboard/dashboard_screenshot.png"
+     alt="Recruitment Analytics Dashboard"
+     width="900"
+     height="500">
+
 The interactive dashboard was created using **Looker Studio** and includes filters for:
 
 * Year
